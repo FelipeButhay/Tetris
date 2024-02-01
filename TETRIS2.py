@@ -113,7 +113,7 @@ while True:
         if active_p.fall:
             active_p.pos[1] += 0.3
         else:
-            active_p.pos[1] += 0.0100
+            active_p.pos[1] += 0.01+time/1800000
             
         if active_p.check_colision(frozen):
             relative_shape = []
