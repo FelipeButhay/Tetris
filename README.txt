@@ -13,3 +13,4 @@ Controles:
 - Con "a" y "d" se mueven las piezas a la derecha e izquierda respectivamente.
 - Se giran con "q" y "e", cada una en un sentido opuesto.
 - Con el espacio se intercambia la pieza guardada (de los recuadros de la derecha, el inferior) con la pieza en uso.
+- Con la "s" se deja caer la pieza a mayor velocidad.
